@@ -1,0 +1,7 @@
+Meskipun JavaScript bukan bahasa pemrograman yang berbasis class seperti Java --Java sepenuhnya mengusung paradigma OOP--, tetapi JavaScript tetap bisa menerapkan dan memanfaatkan fitur OOP.
+hipo: 
+Apa itu class?
+Empat pilar OOP.
+Penggunaan property & method.
+Object Composition.
+Contoh object/class bawaan dari JavaScript.
